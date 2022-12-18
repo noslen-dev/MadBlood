@@ -1,0 +1,12 @@
+--delete from utilizador;
+delete from transfusao;
+delete from receptor;
+delete from armazenamento;
+delete from tipo_sangue_encomenda;
+delete from encomenda_sangue;
+delete from encomenda;
+delete from doacao;
+delete from stock;
+delete from hospital;
+delete from sangue;
+delete from doador;
